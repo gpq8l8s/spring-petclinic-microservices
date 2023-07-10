@@ -3,10 +3,10 @@
 #### LUNDI
 - Créer Cluster, pod ...
 - Load balancer, DNS ...
-####MARDI
+#### MARDI
 - SSL
 - Verifier la disponibilité
-####Mercredi
+#### Mercredi
 - CI - Lier au Github
 - Monitoring
 - DB backup
